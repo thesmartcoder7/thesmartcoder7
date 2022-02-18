@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <br>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thesmartcoder7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesmartcoder7&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=thesmartcoder7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>&nbsp;
+  <img height="180rem" width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesmartcoder7&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
 <br>
@@ -61,13 +61,11 @@ Here are some ideas to get you started:
 
 ### Connect With Me:
 
-<br>
 <div> 
- <a href="mailto:samuel.martins4.sm@gmail.com" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/samuel-martins-09839b115/" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://twitter.com/thesmartcoder7" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/@thesmartcoder7-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
+ <a href="mailto:samuel.martins4.sm@gmail.com" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> &nbsp;
+ <a href="https://www.linkedin.com/in/samuel-martins-09839b115/" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
+ <a href="https://twitter.com/thesmartcoder7" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/@thesmartcoder7-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a> &nbsp;
  <a href="https://samuel-martins.medium.com/" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-
 
 </div>
 
