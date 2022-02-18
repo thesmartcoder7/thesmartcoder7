@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### Languages and Frameworks:
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
     <img align="center" alt="Samuel-Martins-HTML" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Samuel-Martins-CSS" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Samuel-Martins-Sass" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 
 ### Tools :
 
-<br>
 <div style="display: inline_block">
     <img align="center" alt="Samuel-Martins-figma" height="25" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Samuel-Martins-gimp" height="40" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
