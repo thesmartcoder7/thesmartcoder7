@@ -39,7 +39,7 @@ Here are some ideas to get you started:
     <img align="center" alt="Samuel-Martins-MongoDB" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <!-- <img align="center" alt="Samuel-Martins-MySQL" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> -->
     <img align="center" alt="Samuel-Martins-Python" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="Samuel-Martins-Flask" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" alt="Samuel-Martins-Flask" height="30" width="40" style="margin-right: 2%; "src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Samuel-Martins-PHP" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
@@ -50,10 +50,10 @@ Here are some ideas to get you started:
 
 <br>
 <div style="display: inline_block">
-    <img align="center" alt="Samuel-Martins-figma" height="25" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-    <img align="center" alt="Samuel-Martins-gimp" height="40" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
-    <img align="center" alt="Samuel-Martins-inkscape" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg">
-    <img align="center" alt="Samuel-Martins-canva" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
+    <img align="center" alt="Samuel-Martins-figma" height="25" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" alt="Samuel-Martins-gimp" height="40" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" alt="Samuel-Martins-inkscape" height="30" width="40" style="margin-right: 2%;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" alt="Samuel-Martins-canva" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Samuel-Martins-git" height="30" width="40" style="margin-right: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
  
