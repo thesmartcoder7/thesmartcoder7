@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br>
 <div align="center">
-  <img height="180rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=thesmartcoder7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>&nbsp;
+  <img height="180rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=thesmartcoder7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180rem" width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesmartcoder7&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 
 ### Connect With Me:
 
+<br>
 <div> 
  <a href="mailto:samuel.martins4.sm@gmail.com" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> &nbsp;
  <a href="https://www.linkedin.com/in/samuel-martins-09839b115/" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
