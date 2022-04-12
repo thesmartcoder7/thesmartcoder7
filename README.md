@@ -1,26 +1,11 @@
 # Hi there <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" width="30px">... I'm Samuel Martins.
 
-<!--
-**thesmartcoder7/thesmartcoder7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## I am a fullstack developer passionate about solving problems with code.
 
 <br>
 <div align="center">
-  <img height="180rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=thesmartcoder7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180rem" width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesmartcoder7&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="200rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=thesmartcoder7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="200rem" width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesmartcoder7&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
 <br>
@@ -39,7 +24,7 @@ Here are some ideas to get you started:
     <img align="center" alt="Samuel-Martins-MongoDB" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <!-- <img align="center" alt="Samuel-Martins-MySQL" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
     <img align="center" alt="Samuel-Martins-Python" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    <img align="center" alt="Samuel-Martins-Flask" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <img align="center" alt="Samuel-Martins-Flask" height="30" width="40" style="margin: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     <img align="center" alt="Samuel-Martins-PHP" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
