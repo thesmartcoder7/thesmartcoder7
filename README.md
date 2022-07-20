@@ -24,6 +24,7 @@
     <img align="center" alt="Samuel-Martins-React" height="30" width="40" style="padding: 3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Samuel-Martins-Node" height="30" width="40" style="padding: 3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     <img align="center" alt="Samuel-Martins-Python" height="30" width="40" style="padding: 3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <br>
     <img align="center" alt="Samuel-Martins-Flask" height="30" width="40" style="padding: 3%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Samuel-Martins-django" height="30" width="40" style="padding: 3%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Samuel-Martins-MongoDB" height="30" width="40" style="padding: 3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
