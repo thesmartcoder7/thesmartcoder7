@@ -1,4 +1,4 @@
-# Hi there <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" width="30vw">... I'm Samuel Martins.
+<!-- # Hi there <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" width="30vw">... I'm Samuel Martins. -->
 
 # Hi there .&nbsp;.&nbsp;. I'm Samuel Martins.
 
@@ -28,6 +28,8 @@
     <img align="center" alt="Samuel-Martins-django" height="30" width="40" style="padding: 3%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Samuel-Martins-MongoDB" height="30" width="40" style="padding: 3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Samuel-Martins-postgresql" height="30" width="40" style="padding: 3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <br>
+  <br>
     <img align="center" alt="Samuel-Martins-mysql" height="30" width="40" style="padding: 3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Samuel-Martins-PHP" height="30" width="40" style="padding: 3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
