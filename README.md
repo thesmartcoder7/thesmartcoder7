@@ -29,7 +29,8 @@
     <img align="center" alt="Samuel-Martins-MongoDB" height="30" width="40" style="padding: 3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Samuel-Martins-postgresql" height="30" width="40" style="padding: 3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <br>
-  <br>
+    <br>
+    <br>
     <img align="center" alt="Samuel-Martins-mysql" height="30" width="40" style="padding: 3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Samuel-Martins-PHP" height="30" width="40" style="padding: 3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
