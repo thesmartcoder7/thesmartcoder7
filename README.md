@@ -21,12 +21,15 @@
     <img align="center" alt="Samuel-Martins-Js" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Samuel-Martins-Ts" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Samuel-Martins-Angular" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" alt="Samuel-Martins-React" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Samuel-Martins-Node" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     <img align="center" alt="Samuel-Martins-Python" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     <img align="center" alt="Samuel-Martins-Flask" height="30" width="40" style="margin: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Samuel-Martins-django" height="30" width="40" style="margin: 2%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" alt="Samuel-Martins-MongoDB" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="Samuel-Martins-postgresql" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" alt="Samuel-Martins-PHP" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" alt="Samuel-Martins-postgresql" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" alt="Samuel-Martins-mysql" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" alt="Samuel-Martins-PHP" height="30" width="40" style="margin: 2%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <br>
@@ -50,7 +53,7 @@
 <br>
 <div> 
  <a href="mailto:samuel.martins4.sm@gmail.com" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> &nbsp;
- <a href="https://www.linkedin.com/in/thesmartcoder7/" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
+ <a href="https://www.linkedin.com/in/-samuel-martins/" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
  <a href="https://twitter.com/thesmartcoder7" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/@thesmartcoder7-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a> &nbsp;
  <a href="https://samuel-martins.medium.com/" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 
