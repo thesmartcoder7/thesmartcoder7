@@ -57,7 +57,7 @@
 <div> 
  <a href="mailto:samuel.martins4.sm@gmail.com" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> &nbsp;
  <a href="https://www.linkedin.com/in/-samuel-martins/" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
- <a href="https://twitter.com/thesmartcoder7" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/@thesmartcoder7-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a> &nbsp;
+ <a href="https://twitter.com/thesmartcoder7" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/@twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a> &nbsp;
  <a href="https://samuel-martins.medium.com/" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 
 </div>
