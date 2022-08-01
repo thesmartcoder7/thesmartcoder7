@@ -14,7 +14,7 @@
 
 ### Languages and Frameworks:
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 <p>
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
@@ -52,8 +52,6 @@
 <br>
 
 ### Connect With Me:
-
-<br>
 <div> 
  <a href="mailto:samuel.martins4.sm@gmail.com" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> &nbsp;
  <a href="https://www.linkedin.com/in/-samuel-martins/" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
