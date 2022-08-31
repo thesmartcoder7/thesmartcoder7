@@ -28,10 +28,11 @@
   <img src="https://img.shields.io/badge/python-2b5b84?style=for-the-badge&logo=python&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
+  <img src="https://img.shields.io/badge/go-00acd9?style=for-the-badge&logo=go&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
+  <img src="https://img.shields.io/badge/php-4f5b93?style=for-the-badge&logo=php&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-023430?style=for-the-badge&logo=mongodb&logoColor=4cb23b" style="margin: 0 5% 5% 0">&nbsp;
   <img src="https://img.shields.io/badge/mysql-3e6e93?style=for-the-badge&logo=mysql&logoColor=f29111" style="margin: 0 5% 5% 0">&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-14354C?style=for-the-badge&logo=postgreSQL&logoColor=blue" style="margin: 0 5% 5% 0">&nbsp;
-  <img src="https://img.shields.io/badge/php-4f5b93?style=for-the-badge&logo=php&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
 </p>
 </div>
 
