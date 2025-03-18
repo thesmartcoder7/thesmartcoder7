@@ -26,7 +26,6 @@
 <img src="https://img.shields.io/badge/node-026e00?style=for-the-badge&logo=node.js&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
 <img src="https://img.shields.io/badge/express-0c0c0c?style=for-the-badge&logo=express&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
 <img src="https://img.shields.io/badge/nest-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" style="margin: 0.5% 5% 0">&nbsp;
-<img src="https://img.shields.io/badge/react-282c34?style=for-the-badge&logo=react&logoColor=61dafb" style="margin: 0 5% 5% 0">&nbsp;
 <img src="https://img.shields.io/badge/python-2b5b84?style=for-the-badge&logo=python&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
