@@ -6,12 +6,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:071820,50:156997,100:009ff6&text=Samuel%20Martins&fontColor=F0FDFA&fontSize=48&fontAlignY=42&desc=Senior%20Full-Stack%20Software%20Engineer&descSize=16&descAlignY=62&animation=fadeIn" width="100%" alt="Samuel Martins — Senior Full-Stack Software Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:071820,50:156997,100:009ff6&text=Samuel%20Martins&fontColor=F0FDFA&fontSize=48&fontAlignY=42&desc=FullStack%20Software%20Engineer&descSize=16&descAlignY=62&animation=fadeIn" width="100%" alt="Samuel Martins — FullStack Software Engineer" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-samuel--martins.com-009ff6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://samuel-martins.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-009ff6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-samuel-martins/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-samuel--martins.com-009ff6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://samuel-martins.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-009ff6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-samuel-martins/)&nbsp;
 [![Email](https://img.shields.io/badge/Email-Contact-009ff6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel.martins4.sm@gmail.com)
 
 <br/>
@@ -27,9 +27,7 @@
 
 ## <img src="https://img.shields.io/badge/ 01 -ABOUT-009FF6?style=flat-square" alt="01 About"/>
 
-I'm Samuel, a Senior Full-Stack Software Engineer with 10+ years of experience building web applications, backend systems, and software products that solve practical business problems.
-
-My work spans frontend engineering, backend development, API design, artificial intelligence, and database-driven applications. I enjoy turning complex requirements into reliable, maintainable solutions.
+My work spans frontend engineering, backend development, API design, artificial intelligence, and database-driven applications. I enjoy turning complex requirements into reliable, maintainable solutions that solve practical business problems..
 
 Outside my day-to-day work, I'm exploring systems engineering, Linux internals, and low-level programming.
 
