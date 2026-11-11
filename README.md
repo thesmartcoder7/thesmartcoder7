@@ -1,65 +1,51 @@
-<!-- # Hi there <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" width="30vw">... I'm Samuel Martins. -->
 
-# Hi there .&nbsp;.&nbsp;. I'm Samuel Martins.
+<!--
+  Samuel Martins — GitHub Profile README
+  Repository: thesmartcoder7/thesmartcoder7
+-->
 
-## I am a fullstack developer passionate about solving problems with code.
-
-<br>
 <div align="center">
-  <img height="190rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=thesmartcoder7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="190rem" width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesmartcoder7&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-<br>
-<br>
 
-### Languages and Frameworks:
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:071820,50:156997,100:009ff6&text=Samuel%20Martins&fontColor=F0FDFA&fontSize=48&fontAlignY=42&desc=Senior%20Full-Stack%20Software%20Engineer&descSize=16&descAlignY=62&animation=fadeIn" width="100%" alt="Samuel Martins — Senior Full-Stack Software Engineer" />
 
-<div style="display: inline_block">
-<p>
+<br/>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
-<img src="https://img.shields.io/badge/CSS-0077B5?&style=for-the-badge&logo=css3&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
-<img src="https://img.shields.io/badge/scss-bf4080?&style=for-the-badge&logo=sass&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin: 0 5% 5% 0">&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-3179c7?style=for-the-badge&logo=typescript&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
-<img src="https://img.shields.io/badge/Angular-c30130?style=for-the-badge&logo=angular" style="margin: 0 5% 5% 0">&nbsp;
-<img src="https://img.shields.io/badge/node-026e00?style=for-the-badge&logo=node.js&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
-<img src="https://img.shields.io/badge/express-0c0c0c?style=for-the-badge&logo=express&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
-<img src="https://img.shields.io/badge/nest-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" style="margin: 0.5% 5% 0">&nbsp;
-<img src="https://img.shields.io/badge/python-2b5b84?style=for-the-badge&logo=python&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
-<img src="https://img.shields.io/badge/go-00acd9?style=for-the-badge&logo=go&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
-<img src="https://img.shields.io/badge/mysql-3e6e93?style=for-the-badge&logo=mysql&logoColor=f29111" style="margin: 0 5% 5% 0">&nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-14354C?style=for-the-badge&logo=postgreSQL&logoColor=blue" style="margin: 0 5% 5% 0">&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-samuel--martins.com-009ff6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://samuel-martins.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-009ff6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-samuel-martins/)
+[![Email](https://img.shields.io/badge/Email-Contact-009ff6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel.martins4.sm@gmail.com)
 
-</p>
-</div>
+<br/>
 
-<br>
-<br>
-
-### Tools :
-
-<div style="display: inline_block">
-    <img src="https://img.shields.io/badge/figma-a259ff?style=for-the-badge&logo=figma&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
-    <img src="https://img.shields.io/badge/gimp-92886f?style=for-the-badge&logo=gimp&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
-    <img src="https://img.shields.io/badge/inkscape-363b4d?style=for-the-badge&logo=inkscape&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
-    <img src="https://img.shields.io/badge/canva-3868e8?style=for-the-badge&logo=canva&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
-    <img src="https://img.shields.io/badge/git-f64d27?style=for-the-badge&logo=git&logoColor=white" style="margin: 0 5% 5% 0">&nbsp;
-</div>
- 
-<br>
-<br>
-
-### Connect With Me:
-
-<div> 
- <a href="mailto:samuel.martins4.sm@gmail.com" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> &nbsp;
- <a href="https://www.linkedin.com/in/-samuel-martins/" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
- <a href="https://twitter.com/thesmartcoder7" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/@twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a> &nbsp;
- <a href="https://samuel-martins.medium.com/" target="_blank" style="margin-right: 2%;"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+*Building useful software. Solving real problems. Thinking beyond the stack.*
 
 </div>
 
-[website]: https://smart-code.dev
+
+<br/>
+
+<!-- ABOUT -->
+
+## <img src="https://img.shields.io/badge/ 01 -ABOUT-009FF6?style=flat-square" alt="01 About"/>
+
+I'm Samuel, a Senior Full-Stack Software Engineer with 10+ years of experience building web applications, backend systems, and software products that solve practical business problems.
+
+My work spans frontend engineering, backend development, API design, artificial intelligence, and database-driven applications. I enjoy turning complex requirements into reliable, maintainable solutions.
+
+Outside my day-to-day work, I'm exploring systems engineering, Linux internals, and low-level programming.
+
+<br/>
+
+<!-- ENGINEERING PHILOSOPHY -->
+
+## <img src="https://img.shields.io/badge/ 02 -ENGINEERING%20PHILOSOPHY-009FF6?style=flat-square" alt="02 Engineering Philosophy"/>
+
+I value understanding over abstraction, simplicity over unnecessary complexity, and practical solutions over technology for its own sake.
+
+A few principles guide how I approach engineering:
+
+- **Understand the fundamentals.** Know what happens beneath the abstractions.
+- **Build with purpose.** Technology should solve a real problem.
+- **Prefer simplicity.** Good architecture should make systems easier to understand and maintain.
+- **Keep learning.** There is always something deeper to understand.
+- **Think independently.** Develop the ability to investigate, build, troubleshoot, and solve problems without depending entirely on tools or frameworks.
+
