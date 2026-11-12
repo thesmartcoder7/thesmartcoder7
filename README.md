@@ -27,9 +27,7 @@
 
 ## <img src="https://img.shields.io/badge/ 01 -ABOUT-009FF6?style=flat-square" alt="01 About"/>
 
-My work spans frontend engineering, backend development, API design, artificial intelligence, and database-driven applications. I enjoy turning complex requirements into reliable, maintainable solutions that solve practical business problems..
-
-Outside my day-to-day work, I'm exploring systems engineering, Linux internals, and low-level programming.
+My work spans frontend engineering, backend development, API design, artificial intelligence, and database-driven applications. I enjoy turning complex requirements into reliable, maintainable solutions that solve practical business problems. Outside my day-to-day work, I'm exploring systems engineering, Linux internals, and low-level programming.
 
 <br/>
 
